@@ -1,0 +1,8 @@
+1. L'algoritmo è un insieme di step, partendo dalla domanda del problema (input) per arrivare alla risoluzione di esso (output).  è come un quesito
+ di matematica dove hai la domanda che deve trovare una risposta. In questo caso la domanda è l'input e la risposta è l'output.
+
+2. (prendendo l'esempio precedente) Per arrivare alla risoluzione del problema ci sono le variabili che sono tutti i calcoli/equazioni che vai a
+ fare per trovare la risposta e quindi l'output.
+
+3. In parole povere quando a una variabile dichiarata assegni null come valore, stai dicendo che quella variabile ha un valore nullo,
+ mentre quando dichiari una variabile ma non gli dai alcun valore allora è undefined
